@@ -60,8 +60,9 @@ hi, i’m matthew. i build systems.
 </table>
 
 ## me
-<img src="https://github.com/user-attachments/assets/ce63ab2f-46d5-46bc-b72b-65ef1e71a3ff" height="48"/>
-<img src="https://github.com/user-attachments/assets/112a866d-60c7-4f8e-a551-19c1054d2bf9" height="48"/>
+<img src="https://github.com/user-attachments/assets/5f7d8fa2-6ec8-4421-8f74-23b47b27c1f1" height="48" />
+
+<img src="https://github.com/user-attachments/assets/cbd87358-a037-4d41-afee-641d967628dc" height="48" />
 
 
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat&logo=github&logoColor=white)](https://github.com/kannachi323)
