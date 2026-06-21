@@ -20,7 +20,7 @@ gruvbox &lt;3
 <img src="https://singlecolorimage.com/get/8ec07c/16x16" />
 <img src="https://singlecolorimage.com/get/83a598/16x16" />
 
-oh yeah, i use <img src="https://img.shields.io/badge/Arch-1793D1?style=flat&logo=arch-linux&logoColor=white" /> btw :)
+<img src="https://img.shields.io/badge/Arch-1793D1?style=flat&logo=arch-linux&logoColor=white" /> &lt;3
 
 </div>
 
