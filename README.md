@@ -2,10 +2,6 @@
 
 hi, i’m matthew. i build systems.
 
-<img src="https://github.com/user-attachments/assets/5f7d8fa2-6ec8-4421-8f74-23b47b27c1f1" height="48" />
-<img src="https://github.com/user-attachments/assets/cbd87358-a037-4d41-afee-641d967628dc" height="48" />
-
-
 gruvbox &lt;3
 <img src="https://singlecolorimage.com/get/3c3836/16x16" />
 <img src="https://singlecolorimage.com/get/504945/16x16" />
